@@ -1,0 +1,2 @@
+# goods
+mygood
